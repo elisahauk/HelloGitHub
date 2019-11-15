@@ -1,2 +1,4 @@
-# HelloGitHub
-Repository f. die LV Programmieren 1 im Studiengang Wirtschaftsinformatik an der FH Campus02
+# Erstes GitHub Repository
+### Lehrveranstaltung: PR1
+### Name: Elisa Hauk
+Das ist ein Repository, um das erfolgreiche Setup von github.com und der lokalen Git Installation zu testen...
